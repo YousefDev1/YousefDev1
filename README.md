@@ -20,5 +20,5 @@
 ### 📫 Contact
 
 - [Github](https://github.com/YousefDev1) :octocat:
-- [LinkedIn](https://linkedin.com/in/salahineo) 💼
+- [LinkedIn](https://linkedin.com/in/yousef-dev) 💼
 - <a href="mailto:yousef.dev9@gmail.com">Email</a> :email:
