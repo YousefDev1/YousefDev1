@@ -13,6 +13,8 @@
 
 ![YousefDev1's github stats](https://github-readme-stats.vercel.app/api?username=YousefDev1&include_all_commits=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
+![YousefDev1's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefDev1&hide=HTML&langs_count=6&layout=compact&theme=tokyonight)
+
 **If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
 
 > **Explore all of my projects from [Here](https://github.com/YousefDev1)**
